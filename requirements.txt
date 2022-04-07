@@ -1,6 +1,6 @@
 aiohttp==3.7.4.post0
 async-timeout==3.0.1
 DateTime==4.4
-discord.py==2.0.0
+discord.py @ git+https://github.com/Rapptz/discord.py
 python-dotenv==0.19.2
 requests==2.27.1
