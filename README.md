@@ -1,0 +1,2 @@
+# yuniq-qotd
+heroku

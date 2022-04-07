@@ -1,0 +1,6 @@
+aiohttp=.7.4.post0
+async-timeout=3.0.1
+DateTime=4.4
+discord.py=2.0.0a4017+ge79895d8
+python-dotenv=0.19.2
+requests=2.27.1
